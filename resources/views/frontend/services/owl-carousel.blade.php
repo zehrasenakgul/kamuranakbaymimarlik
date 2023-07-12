@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 mb-30">
                 <div class="section-number">.01</div>
-                <div class="section-subtitle">Kamuran Akbay Mimarlık</div>
+                <div class="section-subtitle">Transport</div>
                 <div class="section-title ">Tasarım ve İnovasyon</div>
             </div>
         </div>

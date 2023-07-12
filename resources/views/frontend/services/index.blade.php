@@ -35,7 +35,7 @@
 
                             <div class="caption">
                                 <div class="section-number">{{ $say }}</div>
-                                <h6>Kamuran Akbay Mimarlık</h6>
+                                <h6>Transport</h6>
                                 <h4>{{ $item->name }}</h4>
                                 <div class="butn-dark"><a
                                         href="{{ url('tasarim-ve-inovasyon/' . $item->slug) }}"><span>KEŞFET

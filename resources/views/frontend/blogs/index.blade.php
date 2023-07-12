@@ -42,7 +42,7 @@
                             </div>
                             <div class="cont">
                                 <div class="info">
-                                    <h6><a href="{{ url('blog/' . $item->slug) }}">Kamuran Akbay Mimarlık</a> / <a
+                                    <h6><a href="{{ url('blog/' . $item->slug) }}">Transport</a> / <a
                                             href="{{ url('blog/' . $item->slug) }}"
                                             class="tags">{{ $item->category->name }}</a>
                                     </h6>

@@ -9,7 +9,7 @@
                              <div class="row">
                                  <div class="col-md-12 text-center">
                                      <div class="o-hidden">
-                                         <h6>Kamuran Akbay Mimarlık</h6>
+                                         <h6>Transport</h6>
                                          <h1>{{ $item->name }}</h1>
                                          <div class="butn-dark mt-30 mb-30">
                                              <a href="{{ url('projeler/' . $item->slug) }}"><span>Projeyi Gör <i

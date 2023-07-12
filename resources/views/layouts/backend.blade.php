@@ -37,7 +37,7 @@
 
             <ul class="navbar-item theme-brand flex-row  text-center">
                 <li class="nav-item theme-text">
-                    <a href="/admin" class="nav-link"> KAMURAN AKBAY MİMARLIK</a>
+                    <a href="/admin" class="nav-link"> Transport</a>
                 </li>
             </ul>
 

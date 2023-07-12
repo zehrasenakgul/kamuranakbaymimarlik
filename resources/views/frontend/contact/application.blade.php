@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-12">
-                    <div class="section-subtitle">Kamuran Akbay Mimarlık</div>
+                    <div class="section-subtitle">Transport</div>
                     <div class="section-title"> Arsa Bayilik Başvurusu</div>
                 </div>
             </div>
